@@ -11,6 +11,7 @@ I'm an information system graduate. Currently learning software engineering at G
 ![](https://github-readme-stats.vercel.app/api?username=FahadIqbal1122&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FahadIqbal1122&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FahadIqbal1122&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 [![committers.top badge](https://user-badge.committers.top/bahrain/FahadIqbal1122.svg)](https://user-badge.committers.top/bahrain/FahadIqbal1122)
 ---
 [![](https://visitcount.itsvg.in/api?id=FahadIqbal1122&icon=0&color=12)](https://visitcount.itsvg.in)
