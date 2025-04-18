@@ -15,4 +15,5 @@ I'm an information system graduate. Currently learning software engineering at G
 ---
 [![](https://visitcount.itsvg.in/api?id=FahadIqbal1122&icon=0&color=12)](https://visitcount.itsvg.in)
 
+[![committers.top badge](https://user-badge.committers.top/bahrain/FahadIqbal1122.svg)](https://user-badge.committers.top/bahrain/FahadIqbal1122)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
