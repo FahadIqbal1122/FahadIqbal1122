@@ -48,17 +48,6 @@ Focus     : Building things that work. Then making them better.
 
 ### 📊 GitHub Stats
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=FahadIqbal1122&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadIqbal1122&theme=tokyonight&hide_border=true&layout=compact" />
-</td>
-</tr>
-</table>
-
 <img src="https://streak-stats.demolab.com?user=FahadIqbal1122&theme=tokyonight&hide_border=true" />
 
 ---
