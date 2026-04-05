@@ -59,7 +59,7 @@ Focus     : Building things that work. Then making them better.
 </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FahadIqbal1122&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=FahadIqbal1122&theme=tokyonight&hide_border=true" />
 
 ---
 
